@@ -25,4 +25,5 @@
 
 Источники:
 Рецепты, справочные данные и часть иконок основаны на материалах Paradise. [Руководство по фармакологии](https://wiki.ss220.space/index.php/Руководство_по_фармакологии) · [Руководство по медицине](https://wiki.ss220.space/index.php/Руководство_по_медицине) · [Репозиторий SS1984 Paradise](https://github.com/ss220-space/Paradise)
+<img width="891" height="583" alt="image" src="https://github.com/user-attachments/assets/61d722e5-2a1b-423c-815f-0c6697590852" />
 <img width="580" height="691" alt="image" src="https://github.com/user-attachments/assets/2db1bce8-1353-431d-8321-ef2a29cd856b" />
